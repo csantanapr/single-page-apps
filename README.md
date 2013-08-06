@@ -1,4 +1,6 @@
-# SPA (Single Page Apps) Community Website
+# SPA (Single Page Apps) Website
+
+Centralized recomendations, guidelines, and best practices for developing SPA (Single Page Apps)
 
 ## Hosted Live with [Github Pages](http://pages.github.com/)
 [http://csantanapr.github.io/single-page-apps/](http://csantanapr.github.io/single-page-apps/)
