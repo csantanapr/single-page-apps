@@ -27,11 +27,13 @@ title: Ideas for Content
     - Continues Integration
     - Unit Testing
     - Functional Testing
-- Debugging
+- Debugging & DevTools
 - MV* Frameworks
 - JavaScript Libraries
 - UI/Widget Frameworks
-- Education Resources
+- Javascript Modules (AMD, CommonJS, UMD )
+- Education Resources (Conferences, Books, Blogs)
+- Web Standards & Technologies (CSS, HTML5, Media, Hybrid)
 - Build Web App (Concatenate, Layers, Compress )
 - Build Package App (Native API & Packaging)
 - What's next? (ES6, web components, etc..)
