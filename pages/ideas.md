@@ -27,6 +27,7 @@ title: Ideas for Content
     - Continues Integration
     - Unit Testing
     - Functional Testing
+- Debugging
 - MV* Frameworks
 - JavaScript Libraries
 - UI/Widget Frameworks
