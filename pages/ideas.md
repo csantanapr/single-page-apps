@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ideas for Content
+category: fun
 ---
 
 # Topics for SPA (Single Page Apps) Articles
