@@ -6,6 +6,10 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width">
 
+  <!-- Add Bootstrap and Font awesome styles -->
+  <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+  
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
 
@@ -18,8 +22,12 @@
   <div class="container">
     <div class="site">
       <div class="header">
-        <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-        <a class="extra" href="{{ site.baseurl }}/pages/ideas.html">ideas</a>
+        <h1 class="title">
+          <a href="{{ site.baseurl }}/"><i class="icon-home icon-large"></i> {{ site.name }}</a>
+        </h1>
+        <a class="extra" href="{{ site.baseurl }}/pages/ideas.html">
+          <i class="icon-lightbulb"></i>
+          ideas</a>
       </div>
 
       {{ content }}

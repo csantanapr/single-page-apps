@@ -6,7 +6,7 @@ category: fun
 
 # Topics for SPA (Single Page Apps) Articles
 ---
-## Architecture Principles
+## <i class="icon-puzzle-piece icon-large">  Architecture Principles</i>
 - Abstract Data Access
 - Keep App Browser Runnable
 - Use Single Page Architecture
@@ -19,7 +19,7 @@ category: fun
 - Architect for Performance
 
 ---
-## Developer Experience (DX) Problems
+## <i class="icon-cogs icon-large">  Developer Experience (DX) Problems</i>
 - UI Design
 - App Structure and Navigation
 - Code Structure and Separation of Concerns
@@ -40,7 +40,7 @@ category: fun
 - What's next? (ES6, web components, etc..)
 
 ---
-## User Experience (UX) Problems
+## <i class="icon-globe icon-large">  User Experience (UX) Problems</i>
 - Too long to see content
 - Runs on Desktop but not optimized on Mobile
 - Available on iOS but not on Android
@@ -53,7 +53,7 @@ category: fun
 - Internationalization & Globalization
 
 ---
-## Business Sphere (BS) Problems
+## <i class="icon-bar-chart icon-large">  Business Sphere (BS) Problems</i>
 - How long it will take
 - Greenfield vs. Brownfield Projects
 - How many developers does it take
@@ -65,47 +65,51 @@ category: fun
 - Customer Service
 
 ---
-## Articles should select one Category and many tags
-### Categories
-- docs
-- editing
-- discussion
-- samples
-- blog
-- community
-- issues
 
-### Tags
-- mobile
-- backend
-- android
-- ios
-- rwd
-- jquery
-- dojo
-- bootstrap
-- node
-- templates
-- js
-- html5
-- css3
-- dx
-- ux
-- testing
+## <i class="icon-folder-open icon-large">  Articles should select one Category and many tags</i>
+
+- Categories
+	- docs
+	- editing
+	- discussion
+	- samples
+	- blog
+	- community
+	- issues
+
+- Tags
+	- mobile
+	- backend
+	- android
+	- ios
+	- rwd
+	- jquery
+	- dojo
+	- bootstrap
+	- node
+	- templates
+	- js
+	- html5
+	- css3
+	- dx
+	- ux
+	- testing
 
 ---
-## Articles should address an specific audience and persona
 
-### Frontend Roles
-- Frontend Web Developer
-- Visual Designer
-- UX Designer
-- CSS Master
-- iOS Developer
-- Android Developer
+## <i class="icon-user icon-large">  Articles should address an specific audience and persona</i>
 
-### Backend Roles
-- REST Services Developer
-- Deployer
-- DB Developer
-- Security Engineer
+- Frontend Roles
+	- Frontend Web Developer
+	- Visual Designer
+	- UX Designer
+	- CSS Master
+	- iOS Developer
+	- Android Developer
+
+- Backend Roles
+	- REST Services Developer
+	- Deployer
+	- DB Developer
+	- Security Engineer
+
