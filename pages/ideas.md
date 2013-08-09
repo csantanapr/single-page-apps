@@ -6,7 +6,7 @@ category: fun
 
 # Topics for SPA (Single Page Apps) Articles
 ---
-## <i class="icon-puzzle-piece icon-large">  Architecture Principles</i>
+## <i class="icon-puzzle-piece icon-2x">  Architecture Principles</i>
 - Abstract Data Access
 - Keep App Browser Runnable
 - Use Single Page Architecture
@@ -19,7 +19,7 @@ category: fun
 - Architect for Performance
 
 ---
-## <i class="icon-cogs icon-large">  Developer Experience (DX) Problems</i>
+## <i class="icon-cogs icon-2x">  Developer Experience (DX) Problems</i>
 - UI Design
 - App Structure and Navigation
 - Code Structure and Separation of Concerns
@@ -40,7 +40,7 @@ category: fun
 - What's next? (ES6, web components, etc..)
 
 ---
-## <i class="icon-globe icon-large">  User Experience (UX) Problems</i>
+## <i class="icon-globe icon-2x">  User Experience (UX) Problems</i>
 - Too long to see content
 - Runs on Desktop but not optimized on Mobile
 - Available on iOS but not on Android
@@ -53,7 +53,7 @@ category: fun
 - Internationalization & Globalization
 
 ---
-## <i class="icon-bar-chart icon-large">  Business Sphere (BS) Problems</i>
+## <i class="icon-bar-chart icon-2x">  Business Sphere (BS) Problems</i>
 - How long it will take
 - Greenfield vs. Brownfield Projects
 - How many developers does it take
@@ -66,7 +66,7 @@ category: fun
 
 ---
 
-## <i class="icon-folder-open icon-large">  Articles should select one Category and many tags</i>
+## <i class="icon-folder-open icon-2x">  Articles should select one Category and many tags</i>
 
 - Categories
 	- docs
@@ -97,7 +97,7 @@ category: fun
 
 ---
 
-## <i class="icon-user icon-large">  Articles should address an specific audience and persona</i>
+## <i class="icon-user icon-2x">  Articles should address an specific audience and persona</i>
 
 - Frontend Roles
 	- Frontend Web Developer

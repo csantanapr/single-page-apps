@@ -1,65 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width">
-
-  <!-- Add Bootstrap and Font awesome styles -->
-  <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
-  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-  
-  <!-- syntax highlighting CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-
+  {% include html_head.html %}
 </head>
 <body>
 
   <div class="container">
     <div class="site">
-      <div class="header">
-        <h1 class="title">
-          <a href="{{ site.baseurl }}/"><i class="icon-home icon-large"></i> {{ site.name }}</a>
-        </h1>
-        <a class="extra" href="{{ site.baseurl }}/pages/ideas.html">
-          <i class="icon-lightbulb"></i>
-          ideas</a>
-      </div>
+      {% include header.html %}
 
       {{ content }}
 
-      <div class="footer">
-        <div>
-          <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">
-            <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
-          </a>
-          <br />
-          This work by
-          <a xmlns:cc="http://creativecommons.org/ns#" href="http://csantanapr.github.io/single-page-apps" property="cc:attributionName" rel="cc:attributionURL">http://csantanapr.github.io/single-page-apps/
-          </a>
-          is licensed under a
-          <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License
-          </a>.
-        </div>
-        <div class="contact">
-          <p>
-            Carlos Santana<br />
-            Open Source Developer<br />
-            santana@about.me
-          </p>
-        </div>
-        <div class="contact">
-          <p>
-            <a href="http://github.com/csantanapr/">github.com/csantanapr</a><br />
-            <a href="http://twitter.com/csantanapr/">twitter.com/csantanapr</a><br />
-          </p>
-        </div>
-
-      </div> <!-- /footer -->
+      {% include footer.html %}
     </div>
   </div> <!-- /container -->
 

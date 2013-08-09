@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"markpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"arkd",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"strap",
+				"Strapdown.js Markdown: Preview in a browser"
+			],
+			[
+				"str",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prev",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kfbishop/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kfbishop/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/private/var/folders/17/l3v5mkxn1c1d7gs4w9ys24tm0000gn/T/bootstrap.css",
+		"/Users/kfbishop/dev/git/single-page-apps/css/main.css",
+		"/Users/kfbishop/dev/git/single-page-apps/_site/README.md",
+		"/Users/kfbishop/dev/git/single-page-apps/_includes/themes/twitter/default.html",
+		"/Users/kfbishop/dev/git/single-page-apps/_includes/themes/spa/default.html",
+		"/Users/kfbishop/dev/git/single-page-apps/index.html",
+		"/Users/kfbishop/dev/git/single-page-apps/pages/ideas.md",
+		"/Users/kfbishop/dev/git/single-page-apps/_theme_packages/tom/assets/themes/tom/css/syntax.css",
+		"/Users/kfbishop/dev/git/single-page-apps/_theme_packages/tom/manifest.yml",
+		"/Users/kfbishop/dev/git/single-page-apps/_theme_packages/tom/packager.yml",
+		"/Users/kfbishop/dev/git/single-page-apps/_theme_packages/tom/README.md",
+		"/Users/kfbishop/dev/git/single-page-apps/_layouts/default.html",
+		"/Users/kfbishop/dev/git/single-page-apps/_posts/2013-08-05-welcome-to-jekyll.markdown",
+		"/Users/kfbishop/dev/git/single-page-apps/_config.yml",
+		"/Users/kfbishop/Desktop/Accomplishments.md",
+		"/Users/kfbishop/dev/git/kfbishop.github.com/_config.yml",
+		"/Users/kfbishop/dev/git/kfbishop.github.com/index.md",
+		"/Users/kfbishop/dev/git/single-page-apps/README.md",
+		"/Users/kfbishop/dev/git/single-page-apps/LICENSE",
+		"/Users/kfbishop/dev/git/kfbishop.github.com/archive.html",
+		"/Users/kfbishop/Library/Application Support/Sublime Text 3/Packages/User/hello.sublime-snippit",
+		"/Users/kfbishop/Library/Application Support/Sublime Text 3/Packages/User/JavaScript/Dojo/Dojo-Widget.sublime-snippit",
+		"/Users/kfbishop/bin/subl",
+		"/Users/kfbishop/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/kfbishop/Desktop/SWG Worklight Tasks and ideas.txt",
+		"/Users/kfbishop/Documents/IBM/karlbishop_sig.png",
+		"/Users/kfbishop/Documents/I4I/kfbishop-notes-sig.html",
+		"/Users/kfbishop/Desktop/AppendixB-Installation/README.txt",
+		"/Users/kfbishop/Desktop/Book_apndx/was85instructions.txt",
+		"/Users/kfbishop/Documents/Projects/IBM CCH/CCH_Notes.txt",
+		"/Users/kfbishop/Desktop/Book_apndx/Worklight Studio v6 installation.txt",
+		"/Users/kfbishop/dev/workspace/cch.client.viewer/www/proxy/index.php",
+		"/Users/kfbishop/dev/workspace/Sample.Viewer.Prod/public/ibm/kayman/viewer/base.js",
+		"/Users/kfbishop/dev/workspace/Kayman.Viewer/app/scripts/odw/odwproxy/skeletonproxy.groovy",
+		"/Users/kfbishop/dev/workspace/Kayman.Viewer/app/scripts/ibm/kayman/viewer/BijitViewer.groovy",
+		"/Users/kfbishop/dev/workspace/ISSW Web/www/resources/services/slow/index.php",
+		"/Users/kfbishop/dev/workspace/ISSW Web/www/resources/services/query/index.php",
+		"/Users/kfbishop/dev/workspace/ISSW Web/www/resources/services/status/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project",
+			"remem",
+			"folders",
+			"awe",
+			"tabs",
+			"browser",
+			"hello",
+			"nls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "spa.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

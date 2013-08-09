@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"follow_symlinks": true,
+			"path": "/Users/kfbishop/dev/git/single-page-apps"
+		}
+	],
+	"build_systems": [
+      {
+          "name": "Jekyll Server",
+          "shell_cmd": "echo 'Killing existing Jekyll Server...'; pkill -f jeykell; sleep 2; echo 'Starting Jekyll Server...'; jekyll serve --watch --baseurl ''"
+      }
+  ]
+}
